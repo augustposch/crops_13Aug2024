@@ -1,0 +1,631 @@
+-- Process for LS021_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LS021_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for SV009_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV009_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for SV088_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV088_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for SV130_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV130_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for SV085_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV085_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for SV059_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV059_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for LS001_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LS001_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for LR043_1.0_0.001_10SFH_5day_75_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LR043_1.0_0.001_10SFH_5day_75_160.csv
+-- Process for LS021_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LS021_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for SV009_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV009_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for SV088_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV088_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for SV130_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV130_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for SV085_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV085_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for SV059_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV059_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for LS001_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LS001_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for LR043_1.0_0.001_15TVG_14day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LR043_1.0_0.001_15TVG_14day_1_160.csv
+-- Process for LS021_1.0_0.001_15TVG_5day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/LS021_1.0_0.001_15TVG_5day_1_160.csv
+-- Process for SV009_1.0_0.001_15TVG_5day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV009_1.0_0.001_15TVG_5day_1_160.csv
+-- Process for SV088_1.0_0.001_15TVG_5day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Find results in ../data/results/SV088_1.0_0.001_15TVG_5day_1_160.csv
+-- Process for SV130_1.0_0.001_15TVG_5day_1_160.csv --
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
+> Recording performance metrics
+Finished a fold.
+Starting a fold...
+> Assembling the datasets
+> Fitting the model on the training set
+> Predicting on the validation set
