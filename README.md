@@ -30,19 +30,19 @@ All data used are publicly available. We accessed the publicly available data, p
 ### All data has been created.
 
 ## REPRODUCING THE STIDY
-The deliverable of the study was ensemble machine learning methods and software for remote sensing based in-season mapping of crop type distribution. To produce this we accessed publicly available data, processed these data for machine learning, performed machine learning, and analyzed the results. In this section are step-by-step instructions to reproduce our work.
+The deliverable of the study was ensemble machine learning methods and software for remote sensing based in-season mapping of crop type distribution. To produce this we accessed publicly available data, processed these data for machine learning, performed machine learning, and analyzed the results. In this section are step-by-step instructions to reproduce our work. For python version we used anaconda3/2022.05.
 
 1. Access HLS data using /hls-bulk-download/getHLS.sh. (Detail above)
 2. Access CDL data from the USDA website. (Detail above)
 3. Process HLS data using /notebooks/eda-3B-composite-plots-as-for-loop.ipynb or similar. (Detail above)
 4. Process CDL data using /notebooks/eda-0B-create-crop-data.ipynb. (Detail above)
 5. Combine HLS and CDL into machine learning ready datasets using /notebooks/ml-1J-create-premade-train-val.ipynb and /notebooks/ml-4C-create-premade-train-val.ipynb. (Detail above)
-6. Perform machine learning first pass. Run notebooks/ml-1L-parallel-and-premade. For running the models, use only the bottom of the two code cells You must specify where labeled "## SPECIFY HERE" for architecture and model. To reproduce our model specifics, please refer to the definition of return_model_object() function from notebooks/ml-4A-use-all-data.ipynb.
+6. Perform machine learning first pass. Run notebooks/ml-1L-parallel-and-premade.ipynb. For running the models, use only the bottom of the two code cells under "Run all the models in parallel using Dask". You must specify where labeled "## SPECIFY HERE" for architecture and model. To reproduce our model specifics, please refer to the definition of return_model_object() function from notebooks/ml-4A-use-all-data.ipynb.
 Outputs look like /data/results/ET041_0.001_0.001_15TVG_14day_1_230.csv indicating model ET041, 0.1% training, 0.1% validation, tile 15TVG, scheme 14day, crop code 1, in-season cutoff day 230. Note that based on your computing environment you may have to configure your Dask cluster differently (set of code cells under "Dask initialization") to most-efficiently run all the models in parallel.
 7. Perform machine learning second pass. Run notebooks/ml-4A-use-all-data.ipynb. In the "Run models" code cell, you must specify model_names (a list of model codenames like 'LR036'), training_sample_size (like 1.0), and validation_sample_size (like 0.001). Results look like /data/results/LR036_1.0_0.001_10SFH_14day_75_160.csv, indicating model LR036, 100% training, 0.1% validation, tile 15TVG, scheme 14day, crop code 1, in-season cutoff day 230.
 8. Analyze results using /notebooks/ml-3-analyze-results.ipynb. This organizes the results into a handy dataframe and lets you create useful visuals reporting best models.
 
 ### The above steps reproduce the deliverable: ensemble machine learning methods and software for remote sensing based in-season mapping of crop type distribution.
 
-Optional activities explored during development use other notebooks in /notebooks, including: find a trusted pixel of a certain crop, perform pixel-level exploratory data analysis such as common land covers, create missing-data plots during interpolation, non-dask and alternative-dask methods of parallelization, and datasets that use no crop rotation history (NCRH) or only crop rotation history (0-day cutoff). For details about these side-investigations, please see the monthly reports.
+Optional activities explored during development use other notebooks in /notebooks, including: find a trusted pixel of a certain crop, perform pixel-level exploratory data analysis such as common land covers, create missing-data plots during interpolation, use non-dask and alternative-dask methods of parallelization, and work with datasets that use no crop rotation history (NCRH) or only crop rotation history (0-day cutoff). For details about these side-investigations, please see the monthly reports.
 
